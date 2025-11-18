@@ -1,0 +1,21 @@
+# Arquivos compilados
+*.class
+out/
+bin/
+
+# Arquivos de configuração sensíveis
+.env
+config.properties
+
+# Arquivos do Eclipse
+.classpath
+.project
+.settings/
+
+# Arquivos do IntelliJ IDEA
+.idea/
+*.iml
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
